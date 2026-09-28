@@ -1,0 +1,112 @@
+{
+  "E4": {
+    "label": "Engineering Corps 4",
+    "units": [
+      {
+        "name": "Battering Rams",
+        "aliases": [
+          "Siege"
+        ],
+        "count": 80,
+        "image": "./data/troops/images/engineering.svg"
+      },
+      {
+        "name": "Catapults",
+        "aliases": [
+          "Artillery"
+        ],
+        "count": 60,
+        "image": "./data/troops/images/engineering.svg"
+      }
+    ],
+    "notes": "Placeholder example \u2014 replace the counts and unit names with clan-tested values."
+  },
+  "E5": {
+    "label": "Engineering Corps 5",
+    "units": [
+      {
+        "name": "Battering Rams",
+        "aliases": [
+          "Siege"
+        ],
+        "count": 120,
+        "image": "./data/troops/images/engineering.svg"
+      },
+      {
+        "name": "Catapults",
+        "aliases": [
+          "Artillery"
+        ],
+        "count": 90,
+        "image": "./data/troops/images/engineering.svg"
+      }
+    ],
+    "notes": "Placeholder example \u2014 replace the counts and unit names with clan-tested values."
+  },
+  "E6": {
+    "label": "Engineering Corps 6",
+    "units": [
+      {
+        "name": "Battering Rams",
+        "aliases": [
+          "Siege"
+        ],
+        "count": 180,
+        "image": "./data/troops/images/engineering.svg"
+      },
+      {
+        "name": "Catapults",
+        "aliases": [
+          "Artillery"
+        ],
+        "count": 140,
+        "image": "./data/troops/images/engineering.svg"
+      }
+    ],
+    "notes": "Placeholder example \u2014 replace the counts and unit names with clan-tested values."
+  },
+  "E7": {
+    "label": "Engineering Corps 7",
+    "units": [
+      {
+        "name": "Battering Rams",
+        "aliases": [
+          "Siege"
+        ],
+        "count": 250,
+        "image": "./data/troops/images/engineering.svg"
+      },
+      {
+        "name": "Catapults",
+        "aliases": [
+          "Artillery"
+        ],
+        "count": 200,
+        "image": "./data/troops/images/engineering.svg"
+      }
+    ],
+    "notes": "Placeholder example \u2014 replace the counts and unit names with clan-tested values."
+  },
+  "E8": {
+    "label": "Engineering Corps 8",
+    "units": [
+      {
+        "name": "Battering Rams",
+        "aliases": [
+          "Siege"
+        ],
+        "count": 340,
+        "image": "./data/troops/images/engineering.svg"
+      },
+      {
+        "name": "Catapults",
+        "aliases": [
+          "Artillery"
+        ],
+        "count": 280,
+        "image": "./data/troops/images/engineering.svg"
+      }
+    ],
+    "notes": "Placeholder example \u2014 replace the counts and unit names with clan-tested values."
+  }
+}
